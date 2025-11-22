@@ -8,3 +8,8 @@ const b=()=>{
     console.log( 777); 
     return "7";
 }
+
+const c=()=>{
+    
+    console.log("c function"); 
+}
