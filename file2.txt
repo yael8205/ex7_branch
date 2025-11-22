@@ -1,1 +1,3 @@
 this is file2
+new lines
+for conflict 
