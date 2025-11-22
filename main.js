@@ -11,5 +11,5 @@ const b=()=>{
 
 const c=()=>{
     
-    console.log("c function"); 
+    console.log("c function afetr change"); 
 }
