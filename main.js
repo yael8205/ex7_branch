@@ -4,5 +4,7 @@ const a=()=>{
     return 7;
 }
 const b=()=>{
+    
+    console.log( 777); 
     return "7";
 }
