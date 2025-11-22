@@ -10,5 +10,5 @@ const b=()=>{
 }
 
 const e=()=>{
-    alert("func e");
+    alert("func eee");
 }
