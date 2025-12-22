@@ -15,3 +15,7 @@ const c=()=>{
 const d=()=>{
     alert("func d");
 }
+const e=()=>{
+    alert("func eee");
+}
+
